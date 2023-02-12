@@ -330,7 +330,7 @@ js_config:
   - []
   Env: jd_shopFollowGiftId
   KeyWord:
-  - -  jd_shopFollowGiftId
+  - - jd_shopFollowGiftId
   Name: 【船长】关注有礼
   Script: HarbourJ_HarbourToulu_main/jd_shopFollowGift.py
   TimeOut: 0
@@ -451,7 +451,7 @@ js_config:
   - - M_WX_LUCK_DRAW_URL
   Name: 【M系】幸运抽奖
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_wx_luckDraw.js
+  Script: walle1798_WALL.E_master/m_jd_wx_luckDraw.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -462,7 +462,7 @@ js_config:
   - - M_WX_CENTER_DRAW_URL
   Name: 【M系】老虎机抽奖
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_wx_centerDraw.js
+  Script: walle1798_WALL.E_master/m_jd_wx_centerDraw.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -472,7 +472,7 @@ js_config:
   - - M_WX_SECOND_DRAW_URL
   - - jd_wxSecond_activityId
   Name: 【M系】读秒拼手速
-  Script: walle1798_WALL.E/m_jd_wx_secondDraw.js
+  Script: walle1798_WALL.E_master/m_jd_wx_secondDraw.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -483,7 +483,7 @@ js_config:
   - - M_FAV_SHOP_ARGV
   Name: 【M系】收藏有礼
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_fav_shop_gift.js
+  Script: walle1798_WALL.E_master/m_jd_fav_shop_gift.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -494,7 +494,7 @@ js_config:
   - - M_FOLLOW_SHOP_ARGV
   Name: 【M系】关注有礼
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_follow_shop.js
+  Script: walle1798_WALL.E_master/m_jd_follow_shop.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -504,7 +504,7 @@ js_config:
   - - M_WX_SHOP_GIFT_URL
   Name: 【M系】关注有礼无线
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_wx_shopGift.js
+  Script: walle1798_WALL.E_master/m_jd_wx_shopGift.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -514,7 +514,7 @@ js_config:
   - - M_WX_FOLLOW_DRAW_URL
   Name: 【M系】关注抽奖
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_wx_followDraw.js
+  Script: walle1798_WALL.E_master/m_jd_wx_followDraw.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -524,7 +524,7 @@ js_config:
   - - M_WX_BUILD_DRAW_URL
   Name: 【M系】盖楼领奖
   OverdueTime: 1800
-  Script: walle1798_WALL.E/m_jd_wx_buildDraw.js
+  Script: walle1798_WALL.E_master/m_jd_wx_buildDraw.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -533,7 +533,7 @@ js_config:
   KeyWord:
   - - M_WX_SHARE_URL
   Name: 【M系】M分享有礼
-  Script: walle1798_WALL.E/m_jd_wx_share.js
+  Script: walle1798_WALL.E_master/m_jd_wx_share.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -542,7 +542,7 @@ js_config:
   KeyWord:
   - - M_WX_TEAM_URL
   Name: 【M系】M组队瓜分
-  Script: walle1798_WALL.E/m_jd_wx_team.js
+  Script: walle1798_WALL.E_master/m_jd_wx_team.js
   TimeOut: 0
   Wait: 2
 - Container:
@@ -551,6 +551,6 @@ js_config:
   KeyWord:
   - - M_WX_WDZ_ID
   Name: 【M系列】微定制
-  Script: walle1798_WALL.E/m_jd_wx_microDz.js
+  Script: walle1798_WALL.E_master/m_jd_wx_microDz.js
   TimeOut: 0
   Wait: 2
